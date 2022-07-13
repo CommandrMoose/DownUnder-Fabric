@@ -11,10 +11,10 @@
   "environment": "*",
   "entrypoints": {
     "client": [
-      "aus.downunder.client.DownunderClient"
+      "aus.downunder.client.DownUnderClient"
     ],
     "main": [
-      "aus.downunder.Downunder"
+      "aus.downunder.DownUnder"
     ]
   },
   "mixins": [
