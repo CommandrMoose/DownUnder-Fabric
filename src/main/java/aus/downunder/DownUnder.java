@@ -1,5 +1,6 @@
 package aus.downunder;
 
+import aus.downunder.common.block.DownUnderBlocks;
 import net.fabricmc.api.ModInitializer;
 
 public class DownUnder implements ModInitializer {
@@ -8,6 +9,6 @@ public class DownUnder implements ModInitializer {
 
     @Override
     public void onInitialize() {
-
+        DownUnderBlocks.registerBlocks();
     }
 }

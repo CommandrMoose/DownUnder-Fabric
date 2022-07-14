@@ -2,7 +2,8 @@
 
 ## Todos:
 ### EUCALYPTUS
-* Create log type
+* Create log type - 70% complete
+``Requires item breaking, burning and other traits similar to normal wooden blocks.``
 * Create plank type
 * Create slab type
 * Create stair type
