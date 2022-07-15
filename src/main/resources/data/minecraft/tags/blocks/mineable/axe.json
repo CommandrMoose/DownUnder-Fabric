@@ -1,0 +1,13 @@
+{
+  "replace": false,
+  "values": [
+    "downunder:eucalyptus_log",
+    "downunder:stripped_eucalyptus_log",
+    "downunder:eucalyptus_planks",
+    "downunder:eucalyptus_slab",
+    "downunder:eucalyptus_fence",
+    "downunder:eucalyptus_stairs",
+    "downunder:eucalyptus_pressure_plate",
+    "downunder:eucalyptus_door"
+  ]
+}

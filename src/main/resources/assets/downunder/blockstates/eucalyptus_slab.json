@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "type=bottom": {
+      "model": "downunder:block/eucalyptus_slab"
+    },
+    "type=double": {
+      "model": "downunder:block/eucalyptus_planks"
+    },
+    "type=top": {
+      "model": "downunder:block/eucalyptus_slab_top"
+    }
+  }
+}
